@@ -88,3 +88,7 @@ The UI is built in code (no designer files), so layouts resize with the window.
 3. Commit your changes: `git commit -m "Add new feature"`
 4. Push: `git push origin feature-name`
 5. Open a pull request.
+
+## License
+
+Released under the [MIT License](LICENSE).
